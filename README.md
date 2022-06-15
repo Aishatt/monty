@@ -10,7 +10,7 @@ It is a interpreter for Monty ByteCodes files.
 
 1. Clone the repository:
 ```console
-https://github.com/Lexxyla/monty.git
+https://github.com/Aishatt/monty.git
 ```
 
 2. Enter at directory
@@ -52,13 +52,5 @@ The functions used are:
 | free_stack | frees a doubly linked list | No Return | free_stack.c|
 | main | monty code interpreter | 0 on success | main.c| 
 
-### Examples
-
-```console
-$lexxyla> ls
-basics.c    general.c  main.h  memory.c   shell.c
-builders.c  helper.c   hsh          README.md  test
-```
-
 ### Authors
-Bamidele Adefolaju and Akinloye Oluwakemi
+Adebayo Aishat
